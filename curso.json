@@ -1,0 +1,248 @@
+{
+  "titulo": "Introducción a Python para las Finanzas",
+  "horario": "Lunes, miércoles y jueves de 14:00 a 16:00",
+  "modulos": [
+    {
+      "titulo": "Módulo 1. Fundamentos de Python",
+      "notebooks": [
+        {
+          "id": "1_1",
+          "titulo": "Introducción: ¿qué es Python?",
+          "alumno": "Modulo_01_Fundamentos/1_1_Intro.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_1_Intro_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_2",
+          "titulo": "Google Colab",
+          "alumno": "Modulo_01_Fundamentos/1_2_google_colab.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_2_google_colab_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_3",
+          "titulo": "Sintaxis básica",
+          "alumno": "Modulo_01_Fundamentos/1_3_syntaxis.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_3_syntaxis_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_4",
+          "titulo": "Variables y tipos básicos",
+          "alumno": "Modulo_01_Fundamentos/1_4_variables.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_4_variables_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_5",
+          "titulo": "Operadores",
+          "alumno": "Modulo_01_Fundamentos/1_5_operadores.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_5_operadores_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_6",
+          "titulo": "Listas y tuplas",
+          "alumno": "Modulo_01_Fundamentos/1_6_listas_y_tuplas.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_6_listas_y_tuplas_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_7",
+          "titulo": "Diccionarios",
+          "alumno": "Modulo_01_Fundamentos/1_7_diccionarios.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_7_diccionarios_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_8",
+          "titulo": "Condicionales y bucles",
+          "alumno": "Modulo_01_Fundamentos/1_8_condicionales_y_bucles.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_8_condicionales_y_bucles_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "1_9",
+          "titulo": "Funciones",
+          "alumno": "Modulo_01_Fundamentos/1_9_funciones.ipynb",
+          "solucion": "Modulo_01_Fundamentos/soluciones/1_9_funciones_sol.ipynb",
+          "publicada": false
+        }
+      ]
+    },
+    {
+      "titulo": "Módulo 2. Aplicaciones financieras",
+      "notebooks": [
+        {
+          "id": "2_1",
+          "titulo": "NumPy: cálculo financiero con matrices y simulación de Monte Carlo",
+          "alumno": "Modulo_02_Aplicaciones_Financieras/2_1_numpy.ipynb",
+          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_1_numpy_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "2_2",
+          "titulo": "Pandas: descarga y descripción de activos financieros",
+          "alumno": "Modulo_02_Aplicaciones_Financieras/2_2_pandas_descarga_activos.ipynb",
+          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_2_pandas_descarga_activos_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "2_3",
+          "titulo": "Rentabilidades y volatilidades",
+          "alumno": "Modulo_02_Aplicaciones_Financieras/2_3_rentabilidades_volatilidades.ipynb",
+          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_3_rentabilidades_volatilidades_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "2_4",
+          "titulo": "Estrategias de trading con medias móviles",
+          "alumno": "Modulo_02_Aplicaciones_Financieras/2_4_trading_medias_moviles.ipynb",
+          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_4_trading_medias_moviles_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "2_5",
+          "titulo": "Análisis fundamental",
+          "alumno": "Modulo_02_Aplicaciones_Financieras/2_5_analisis_fundamental.ipynb",
+          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_5_analisis_fundamental_sol.ipynb",
+          "publicada": false
+        }
+      ]
+    }
+  ],
+  "sesiones": [
+    {
+      "fecha": "2026-10-19",
+      "contenidos": "Presentación del curso. **1.1** Introducción, **1.2** Google Colab y **1.3** Sintaxis: primeras pruebas",
+      "practica": "Primeras operaciones y comentarios en Colab",
+      "notebooks": [
+        "1_1",
+        "1_2",
+        "1_3"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "contenidos": "**1.4** Variables y tipos básicos",
+      "practica": "Salarios, impuestos y fechas",
+      "notebooks": [
+        "1_4"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "contenidos": "**1.5** Operadores aritméticos, de comparación y lógicos",
+      "practica": "Valor de una cartera, impuestos, autónomo y cuenta de ahorro",
+      "notebooks": [
+        "1_5"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
+      "contenidos": "**1.6** Listas y tuplas",
+      "practica": "Patrimonio de una cartera, orden de compra y tickers",
+      "notebooks": [
+        "1_6"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "contenidos": "**1.6** Práctica final con tuplas y **1.7** Diccionarios",
+      "practica": "Diccionario ticker → precio y valor de la cartera",
+      "notebooks": [
+        "1_6",
+        "1_7"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "contenidos": "**1.8** Condicionales y bucles `for`",
+      "practica": "Salarios anuales y rentabilidades positivas",
+      "notebooks": [
+        "1_8"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "contenidos": "**1.8** Bucles `while`, `break` y `continue`. Inicio de **1.9** Funciones",
+      "practica": "Concentrar una cartera y ganancias/pérdidas diarias",
+      "notebooks": [
+        "1_8",
+        "1_9"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
+      "contenidos": "**1.9** Funciones: argumentos, ámbito y valores de retorno. Repaso del Módulo 1",
+      "practica": "Funciones para pérdidas y valor de la cartera",
+      "notebooks": [
+        "1_9"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
+      "contenidos": "**2.1** NumPy I: arrays, cuenta de resultados, flujos de caja y producto de matrices",
+      "practica": "Beneficio, margen, crecimiento y ventas por tienda",
+      "notebooks": [
+        "2_1"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
+      "contenidos": "**2.1** NumPy II: VAN, escenarios, sistemas de ecuaciones y broadcasting",
+      "practica": "VAN y sensibilidad, cartera con activo libre de riesgo, BAI por escenarios",
+      "notebooks": [
+        "2_1"
+      ]
+    },
+    {
+      "fecha": "2026-11-16",
+      "contenidos": "**2.1** NumPy III: incertidumbre y simulación de Monte Carlo",
+      "practica": "Valoración de una empresa y nueva línea de producción",
+      "notebooks": [
+        "2_1"
+      ]
+    },
+    {
+      "fecha": "2026-11-18",
+      "contenidos": "**2.2** Pandas I: lectura de Excel y CSV, `concat`, slicing e inspección de datos",
+      "practica": "Análisis inicial de AAPL, MSFT y CSCO",
+      "notebooks": [
+        "2_2"
+      ]
+    },
+    {
+      "fecha": "2026-11-19",
+      "contenidos": "**2.2** Pandas II: limpieza de datos, `resample`, Yahoo Finance y visualización",
+      "practica": "Ejercicio de repaso con TSLA, NVDA y META",
+      "notebooks": [
+        "2_2"
+      ]
+    },
+    {
+      "fecha": "2026-11-23",
+      "contenidos": "**2.3** Rentabilidades y volatilidades y **2.4** Estrategias de trading con medias móviles",
+      "practica": "Distribuciones de retornos y estrategia *crossover*",
+      "notebooks": [
+        "2_3",
+        "2_4"
+      ]
+    },
+    {
+      "fecha": "2026-11-25",
+      "contenidos": "**2.5** Análisis fundamental: estados financieros, ROA, ROE y múltiplos. Dudas para el examen",
+      "practica": "Comparativa de empresas del sector textil",
+      "notebooks": [
+        "2_5"
+      ]
+    },
+    {
+      "fecha": "2026-11-26",
+      "contenidos": "**Examen / prueba final**",
+      "practica": "",
+      "notebooks": [],
+      "examen": true
+    }
+  ]
+}

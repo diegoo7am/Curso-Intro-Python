@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+# Ficheros que generan los propios notebooks al ejecutarse
+data1.xlsx
+precios_consolidados_2024.csv
+
+# Soluciones: solo se suben las publicadas (las gestiona publicar_solucion.py)
+Modulo_*/soluciones/*
+
+# Herramientas del profesor (solo en local)
+publicar_solucion.py
+configurar_repo.py
