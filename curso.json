@@ -115,7 +115,6 @@
     {
       "fecha": "2026-10-19",
       "contenidos": "Presentación del curso. **1.1** Introducción, **1.2** Google Colab y **1.3** Sintaxis: primeras pruebas",
-      "practica": "Primeras operaciones y comentarios en Colab",
       "notebooks": [
         "1_1",
         "1_2",
@@ -124,115 +123,100 @@
     },
     {
       "fecha": "2026-10-21",
-      "contenidos": "**1.4** Variables y tipos básicos",
-      "practica": "Salarios, impuestos y fechas",
+      "contenidos": "**1.4** Variables y tipos básicos y **1.5** Operadores aritméticos, de comparación y lógicos",
       "notebooks": [
-        "1_4"
-      ]
-    },
-    {
-      "fecha": "2026-10-22",
-      "contenidos": "**1.5** Operadores aritméticos, de comparación y lógicos",
-      "practica": "Valor de una cartera, impuestos, autónomo y cuenta de ahorro",
-      "notebooks": [
+        "1_4",
         "1_5"
       ]
     },
     {
-      "fecha": "2026-10-26",
+      "fecha": "2026-10-22",
       "contenidos": "**1.6** Listas y tuplas",
-      "practica": "Patrimonio de una cartera, orden de compra y tickers",
       "notebooks": [
         "1_6"
       ]
     },
     {
-      "fecha": "2026-10-28",
-      "contenidos": "**1.6** Práctica final con tuplas y **1.7** Diccionarios",
-      "practica": "Diccionario ticker → precio y valor de la cartera",
+      "fecha": "2026-10-26",
+      "contenidos": "**1.7** Diccionarios",
       "notebooks": [
-        "1_6",
         "1_7"
       ]
     },
     {
-      "fecha": "2026-10-29",
-      "contenidos": "**1.8** Condicionales y bucles `for`",
-      "practica": "Salarios anuales y rentabilidades positivas",
+      "fecha": "2026-10-28",
+      "contenidos": "**1.8** Condicionales y bucles `for` y `while`",
       "notebooks": [
         "1_8"
       ]
     },
     {
-      "fecha": "2026-11-04",
-      "contenidos": "**1.8** Bucles `while`, `break` y `continue`. Inicio de **1.9** Funciones",
-      "practica": "Concentrar una cartera y ganancias/pérdidas diarias",
+      "fecha": "2026-10-29",
+      "contenidos": "**1.9** Funciones: argumentos, ámbito y valores de retorno",
       "notebooks": [
-        "1_8",
         "1_9"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "contenidos": "Repaso del Módulo 1 y **2.1** NumPy I: arrays",
+      "notebooks": [
+        "2_1"
       ]
     },
     {
       "fecha": "2026-11-05",
-      "contenidos": "**1.9** Funciones: argumentos, ámbito y valores de retorno. Repaso del Módulo 1",
-      "practica": "Funciones para pérdidas y valor de la cartera",
+      "contenidos": "**2.1** NumPy: cuenta de resultados, flujos de caja y producto de matrices",
       "notebooks": [
-        "1_9"
+        "2_1"
       ]
     },
     {
       "fecha": "2026-11-11",
-      "contenidos": "**2.1** NumPy I: arrays, cuenta de resultados, flujos de caja y producto de matrices",
-      "practica": "Beneficio, margen, crecimiento y ventas por tienda",
+      "contenidos": "**2.1** NumPy: VAN, escenarios, sistemas de ecuaciones y broadcasting",
       "notebooks": [
         "2_1"
       ]
     },
     {
       "fecha": "2026-11-12",
-      "contenidos": "**2.1** NumPy II: VAN, escenarios, sistemas de ecuaciones y broadcasting",
-      "practica": "VAN y sensibilidad, cartera con activo libre de riesgo, BAI por escenarios",
+      "contenidos": "**2.1** NumPy: incertidumbre y simulación de Monte Carlo (valoración de una empresa, nueva línea de producción y correlación)",
       "notebooks": [
         "2_1"
       ]
     },
     {
       "fecha": "2026-11-16",
-      "contenidos": "**2.1** NumPy III: incertidumbre y simulación de Monte Carlo",
-      "practica": "Valoración de una empresa y nueva línea de producción",
+      "contenidos": "**2.2** Pandas I: lectura de Excel y CSV, `concat`, slicing e inspección de datos",
       "notebooks": [
-        "2_1"
+        "2_2"
       ]
     },
     {
       "fecha": "2026-11-18",
-      "contenidos": "**2.2** Pandas I: lectura de Excel y CSV, `concat`, slicing e inspección de datos",
-      "practica": "Análisis inicial de AAPL, MSFT y CSCO",
+      "contenidos": "**2.2** Pandas II: limpieza de datos, `resample`, Yahoo Finance y visualización",
       "notebooks": [
         "2_2"
       ]
     },
     {
       "fecha": "2026-11-19",
-      "contenidos": "**2.2** Pandas II: limpieza de datos, `resample`, Yahoo Finance y visualización",
-      "practica": "Ejercicio de repaso con TSLA, NVDA y META",
+      "contenidos": "**2.3** Rentabilidades y volatilidades",
       "notebooks": [
-        "2_2"
+        "2_3"
       ]
     },
     {
       "fecha": "2026-11-23",
-      "contenidos": "**2.3** Rentabilidades y volatilidades y **2.4** Estrategias de trading con medias móviles",
-      "practica": "Distribuciones de retornos y estrategia *crossover*",
+      "contenidos": "**2.4** Estrategias de trading con medias móviles e inicio de **2.5** Análisis fundamental: estados financieros",
       "notebooks": [
-        "2_3",
-        "2_4"
+        "2_4",
+        "2_5"
       ]
     },
     {
       "fecha": "2026-11-25",
-      "contenidos": "**2.5** Análisis fundamental: estados financieros, ROA, ROE y múltiplos. Dudas para el examen",
-      "practica": "Comparativa de empresas del sector textil",
+      "contenidos": "**2.5** Análisis fundamental: ROA, ROE y múltiplos. Repaso y dudas para el examen",
       "notebooks": [
         "2_5"
       ]
@@ -240,7 +224,6 @@
     {
       "fecha": "2026-11-26",
       "contenidos": "**Examen / prueba final**",
-      "practica": "",
       "notebooks": [],
       "examen": true
     }
