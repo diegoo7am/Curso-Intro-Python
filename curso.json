@@ -10,21 +10,21 @@
           "titulo": "Introducción: ¿qué es Python?",
           "alumno": "Modulo_01_Fundamentos/1_1_Intro.ipynb",
           "solucion": "Modulo_01_Fundamentos/soluciones/1_1_Intro_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "1_2",
           "titulo": "Google Colab",
           "alumno": "Modulo_01_Fundamentos/1_2_google_colab.ipynb",
           "solucion": "Modulo_01_Fundamentos/soluciones/1_2_google_colab_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "1_3",
           "titulo": "Sintaxis básica",
           "alumno": "Modulo_01_Fundamentos/1_3_syntaxis.ipynb",
           "solucion": "Modulo_01_Fundamentos/soluciones/1_3_syntaxis_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "1_4",
