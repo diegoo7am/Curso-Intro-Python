@@ -31,14 +31,14 @@
           "titulo": "Variables y tipos básicos",
           "alumno": "Modulo_01_Fundamentos/1_4_variables.ipynb",
           "solucion": "Modulo_01_Fundamentos/soluciones/1_4_variables_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "1_5",
           "titulo": "Operadores",
           "alumno": "Modulo_01_Fundamentos/1_5_operadores.ipynb",
           "solucion": "Modulo_01_Fundamentos/soluciones/1_5_operadores_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "1_6",
