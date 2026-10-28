@@ -36,6 +36,7 @@ Abre el notebook índice en Google Colab: [![Open In Colab](https://colab.resear
 | 1.7 | Diccionarios | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_01_Fundamentos/1_7_diccionarios.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_01_Fundamentos/soluciones/1_7_diccionarios_sol.ipynb) |
 | 1.8 | Condicionales y bucles | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_01_Fundamentos/1_8_condicionales_y_bucles.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_01_Fundamentos/soluciones/1_8_condicionales_y_bucles_sol.ipynb) |
 | 1.9 | Funciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_01_Fundamentos/1_9_funciones.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_01_Fundamentos/soluciones/1_9_funciones_sol.ipynb) |
+| 1.10 | Repaso del Módulo 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_01_Fundamentos/1_10_repaso.ipynb) | 🔒 Pendiente |
 
 ## Módulo 2. Aplicaciones financieras
 
@@ -58,8 +59,8 @@ Del 19/10 al 26/11/2026. Lunes, miércoles y jueves de 14:00 a 16:00. No hay cla
 | 3 | Jue 22/10 | **1.6** Listas y tuplas |
 | 4 | Lun 26/10 | **1.7** Diccionarios |
 | 5 | Mié 28/10 | **1.8** Condicionales y bucles `for` y `while` |
-| 6 | Jue 29/10 | **1.9** Funciones: argumentos, ámbito y valores de retorno |
-| 7 | Mié 04/11 | Repaso del Módulo 1 y **2.1** NumPy I: arrays |
+| 6 | Jue 29/10 | **1.10** Repaso del Módulo 1 |
+| 7 | Mié 04/11 | **2.1** NumPy I: arrays |
 | 8 | Jue 05/11 | **2.1** NumPy: cuenta de resultados, flujos de caja y producto de matrices |
 | 9 | Mié 11/11 | **2.1** NumPy: VAN, escenarios, sistemas de ecuaciones y broadcasting |
 | 10 | Jue 12/11 | **2.1** NumPy: incertidumbre y simulación de Monte Carlo (valoración de una empresa, nueva línea de producción y correlación) |
