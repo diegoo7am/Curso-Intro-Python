@@ -59,14 +59,14 @@
           "titulo": "Condicionales y bucles",
           "alumno": "Modulo_01_Fundamentos/1_8_condicionales_y_bucles.ipynb",
           "solucion": "Modulo_01_Fundamentos/soluciones/1_8_condicionales_y_bucles_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "1_9",
           "titulo": "Funciones",
           "alumno": "Modulo_01_Fundamentos/1_9_funciones.ipynb",
           "solucion": "Modulo_01_Fundamentos/soluciones/1_9_funciones_sol.ipynb",
-          "publicada": false
+          "publicada": true
         }
       ]
     },
