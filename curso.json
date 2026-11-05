@@ -85,7 +85,7 @@
           "titulo": "NumPy: cálculo financiero con matrices y simulación de Monte Carlo",
           "alumno": "Modulo_02_Aplicaciones_Financieras/2_1_numpy.ipynb",
           "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_1_numpy_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "2_2",
