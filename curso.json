@@ -92,7 +92,7 @@
           "titulo": "Pandas: descarga y descripción de activos financieros",
           "alumno": "Modulo_02_Aplicaciones_Financieras/2_2_pandas_descarga_activos.ipynb",
           "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_2_pandas_descarga_activos_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "2_3",
