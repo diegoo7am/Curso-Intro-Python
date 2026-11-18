@@ -46,7 +46,8 @@ Abre el notebook índice en Google Colab: [![Open In Colab](https://colab.resear
 | 2.2 | Pandas: descarga y descripción de activos financieros | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_02_Aplicaciones_Financieras/2_2_pandas_descarga_activos.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_02_Aplicaciones_Financieras/soluciones/2_2_pandas_descarga_activos_sol.ipynb) |
 | 2.3 | Rentabilidades y volatilidades | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_02_Aplicaciones_Financieras/2_3_rentabilidades_volatilidades.ipynb) | 🔒 Pendiente |
 | 2.4 | Estrategias de trading con medias móviles | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_02_Aplicaciones_Financieras/2_4_trading_medias_moviles.ipynb) | 🔒 Pendiente |
-| 2.5 | Análisis fundamental | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_02_Aplicaciones_Financieras/2_5_analisis_fundamental.ipynb) | 🔒 Pendiente |
+| 2.5 | Carteras de inversión y simulación de Monte Carlo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_02_Aplicaciones_Financieras/2_5_carteras_montecarlo.ipynb) | 🔒 Pendiente |
+| 2.6 | Análisis fundamental | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diegoo7am/Curso-Intro-Python/blob/main/Modulo_02_Aplicaciones_Financieras/2_6_analisis_fundamental.ipynb) | 🔒 Pendiente |
 
 ## Plan de clases
 
@@ -64,9 +65,9 @@ Del 19/10 al 26/11/2026. Lunes, miércoles y jueves de 14:00 a 16:00. No hay cla
 | 8 | Jue 05/11 | **2.1** NumPy: cuenta de resultados, flujos de caja y producto de matrices |
 | 9 | Mié 11/11 | **2.1** NumPy: VAN, escenarios, sistemas de ecuaciones y broadcasting |
 | 10 | Jue 12/11 | **2.1** NumPy: incertidumbre y simulación de Monte Carlo (valoración de una empresa, nueva línea de producción y correlación) |
-| 11 | Lun 16/11 | **2.2** Pandas I: lectura de Excel y CSV, `concat`, slicing e inspección de datos |
-| 12 | Mié 18/11 | **2.2** Pandas II: limpieza de datos, `resample`, Yahoo Finance y visualización |
-| 13 | Jue 19/11 | **2.3** Rentabilidades y volatilidades |
-| 14 | Lun 23/11 | **2.4** Estrategias de trading con medias móviles e inicio de **2.5** Análisis fundamental: estados financieros |
-| 15 | Mié 25/11 | **2.5** Análisis fundamental: ROA, ROE y múltiplos. Repaso y dudas para el examen |
-| 16 | Jue 26/11 | **Examen / prueba final** |
+| 11 | Lun 16/11 | **2.2** Pandas: lectura de Excel y CSV, `concat`, slicing e inspección de datos y **2.3** Rentabilidades y volatilidades |
+| 12 | Mié 18/11 | **2.4** Estrategias de trading con medias móviles |
+| 13 | Jue 19/11 | **2.5** Carteras de inversión y simulación de Monte Carlo |
+| 14 | Lun 23/11 | **2.6** Análisis fundamental: estados financieros, ROA, ROE y múltiplos |
+| 15 | Mié 25/11 | **Control del Módulo 1** |
+| 16 | Jue 26/11 | **Presentación del trabajo final** |

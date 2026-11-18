@@ -110,9 +110,16 @@
         },
         {
           "id": "2_5",
+          "titulo": "Carteras de inversión y simulación de Monte Carlo",
+          "alumno": "Modulo_02_Aplicaciones_Financieras/2_5_carteras_montecarlo.ipynb",
+          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_5_carteras_montecarlo_sol.ipynb",
+          "publicada": false
+        },
+        {
+          "id": "2_6",
           "titulo": "Análisis fundamental",
-          "alumno": "Modulo_02_Aplicaciones_Financieras/2_5_analisis_fundamental.ipynb",
-          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_5_analisis_fundamental_sol.ipynb",
+          "alumno": "Modulo_02_Aplicaciones_Financieras/2_6_analisis_fundamental.ipynb",
+          "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_6_analisis_fundamental_sol.ipynb",
           "publicada": false
         }
       ]
@@ -194,43 +201,41 @@
     },
     {
       "fecha": "2026-11-16",
-      "contenidos": "**2.2** Pandas I: lectura de Excel y CSV, `concat`, slicing e inspección de datos",
+      "contenidos": "**2.2** Pandas: lectura de Excel y CSV, `concat`, slicing e inspección de datos y **2.3** Rentabilidades y volatilidades",
       "notebooks": [
-        "2_2"
-      ]
-    },
-    {
-      "fecha": "2026-11-18",
-      "contenidos": "**2.2** Pandas II: limpieza de datos, `resample`, Yahoo Finance y visualización",
-      "notebooks": [
-        "2_2"
-      ]
-    },
-    {
-      "fecha": "2026-11-19",
-      "contenidos": "**2.3** Rentabilidades y volatilidades",
-      "notebooks": [
+        "2_2",
         "2_3"
       ]
     },
     {
-      "fecha": "2026-11-23",
-      "contenidos": "**2.4** Estrategias de trading con medias móviles e inicio de **2.5** Análisis fundamental: estados financieros",
+      "fecha": "2026-11-18",
+      "contenidos": "**2.4** Estrategias de trading con medias móviles",
       "notebooks": [
-        "2_4",
+        "2_4"
+      ]
+    },
+    {
+      "fecha": "2026-11-19",
+      "contenidos": "**2.5** Carteras de inversión y simulación de Monte Carlo",
+      "notebooks": [
         "2_5"
+      ]
+    },
+    {
+      "fecha": "2026-11-23",
+      "contenidos": "**2.6** Análisis fundamental: estados financieros, ROA, ROE y múltiplos",
+      "notebooks": [
+        "2_6"
       ]
     },
     {
       "fecha": "2026-11-25",
-      "contenidos": "**2.5** Análisis fundamental: ROA, ROE y múltiplos. Repaso y dudas para el examen",
-      "notebooks": [
-        "2_5"
-      ]
+      "contenidos": "**Control del Módulo 1**",
+      "notebooks": []
     },
     {
       "fecha": "2026-11-26",
-      "contenidos": "**Examen / prueba final**",
+      "contenidos": "**Presentación del trabajo final**",
       "notebooks": [],
       "examen": true
     }
