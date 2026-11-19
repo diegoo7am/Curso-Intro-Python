@@ -99,14 +99,14 @@
           "titulo": "Rentabilidades y volatilidades",
           "alumno": "Modulo_02_Aplicaciones_Financieras/2_3_rentabilidades_volatilidades.ipynb",
           "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_3_rentabilidades_volatilidades_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "2_4",
           "titulo": "Estrategias de trading con medias móviles",
           "alumno": "Modulo_02_Aplicaciones_Financieras/2_4_trading_medias_moviles.ipynb",
           "solucion": "Modulo_02_Aplicaciones_Financieras/soluciones/2_4_trading_medias_moviles_sol.ipynb",
-          "publicada": false
+          "publicada": true
         },
         {
           "id": "2_5",
